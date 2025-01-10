@@ -47,7 +47,9 @@ Netlify: For deployment.
 
 This portfolio is deployed on Netlify, and you can view the live version here:
 
-Live Portfolio
+Live Portfolio: Admin url: https://app.netlify.com/sites/reactportfolio12
+Site url:  https://reactportfolio12.netlify.app
+
 
 # License
 
